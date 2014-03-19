@@ -1,0 +1,2 @@
+To render the PNG files, invoke redo(1) or the included shell script
+named "do". Be aware that "do" rebuilds every target on every build.
