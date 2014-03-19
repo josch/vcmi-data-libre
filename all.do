@@ -1,4 +1,4 @@
 #!/bin/sh
-for file in $(ls *.svg); do
-  redo-ifchange "$(basename $file .svg)".png
+for file in $(ls *.svg */*.svg); do
+  redo-ifchange "$(dirname "$file")"/"$(basename "$file" .svg)".png
 done;
