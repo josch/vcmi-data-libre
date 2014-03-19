@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.1640625"
-     inkscape:cx="30.890872"
-     inkscape:cy="-10.47954"
+     inkscape:zoom="19.8125"
+     inkscape:cx="32"
+     inkscape:cy="16"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,7 +116,8 @@
          y="692.05249"
          style="font-size:24px;fill:#e9b96e;stroke:none">✔</tspan></text>
     <g
-       id="g4064">
+       id="g4064"
+       transform="translate(4,0)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -171,63 +172,6 @@
          id="path4032"
          d="m 712.28571,664.79077 -40,40"
          style="fill:none;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <g
-       id="g4075">
-      <path
-         style="fill:none;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 642.28571,664.79077 -40,40"
-         id="path4077"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path4079"
-         d="m 662.28571,664.79077 -40,40"
-         style="fill:none;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         style="fill:none;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 682.28571,664.79077 -40,40"
-         id="path4081"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path4083"
-         d="m 702.28571,664.79077 -40,40"
-         style="fill:none;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path4085"
-         d="m 632.28571,664.79077 -40,40"
-         style="fill:none;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         style="fill:none;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 652.28571,664.79077 -40,40"
-         id="path4087"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path4089"
-         d="m 672.28571,664.79077 -40,40"
-         style="fill:none;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         style="fill:none;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 692.28571,664.79077 -40,40"
-         id="path4091"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#2e3436;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 712.28571,664.79077 -40,40"
-         id="path4093"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
     </g>
   </g>
 </svg>
