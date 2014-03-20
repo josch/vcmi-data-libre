@@ -1,3 +1,3 @@
 redo
 redo-always
-montage *.png *.dir/*.png -geometry 58x64 montage.jpg
+montage *.png *.dir/*.png -mode Concatenate montage.jpg
