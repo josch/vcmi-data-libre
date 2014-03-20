@@ -4,5 +4,7 @@ for file in $(ls *.svg */*.svg); do
 done
 
 for file in $(ls *.png.do); do
-  redo-ifchange "$(dirname "$file")"/$(basename "$file" .do)
+  if [ "$file" != "default.png.do" ]; then
+    redo-ifchange "$(dirname "$file")"/$(basename "$file" .do)
+  fi
 done
