@@ -9,7 +9,7 @@ for file in $(ls *.png.do); do
   fi
 done
 
-for i in $(seq 0 11); do
+for i in $(seq 0 15); do
   for j in $(seq 0 3); do
     redo-ifchange $(printf 'iam%03d.dir/00_%02d.png\n' $i $j)
   done
