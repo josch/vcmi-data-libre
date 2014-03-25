@@ -19,102 +19,6 @@
      id="defs4">
     <filter
        inkscape:collect="always"
-       id="filter5810"
-       x="-0.14468997"
-       width="1.2893799"
-       y="-0.14331658"
-       height="1.2866332">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.2533203"
-         id="feGaussianBlur5812" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5828"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.08"
-         id="feGaussianBlur5830" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5834"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.08"
-         id="feGaussianBlur5836" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5846"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.16"
-         id="feGaussianBlur5848" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5862"
-       x="-0.768"
-       width="2.536"
-       y="-0.768"
-       height="2.536">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="4.8"
-         id="feGaussianBlur5864" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5868"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.08"
-         id="feGaussianBlur5870" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5874"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.08"
-         id="feGaussianBlur5876" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5878"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.16"
-         id="feGaussianBlur5880" />
-    </filter>
-    <filter
-       inkscape:collect="always"
        id="filter5903"
        x="-0.192"
        width="1.384"
@@ -170,7 +74,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.625"
-     inkscape:cx="16"
+     inkscape:cx="5.5027624"
      inkscape:cy="17.582744"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -193,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -241,7 +145,7 @@
        d="m 20,6.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
        transform="translate(0,1020.3622)" />
     <path
-       style="fill:#204a87;fill-opacity:1;stroke:none;filter:url(#filter5929);opacity:0.1"
+       style="fill:#204a87;fill-opacity:1;stroke:none;filter:url(#filter5929);opacity:0.05"
        d="m 10,7 5,0 5,5 0,5 5,5 -5,5 -5,-5 0,-5 -5,-5 -5,0 z"
        id="path5919"
        inkscape:connector-curvature="0"

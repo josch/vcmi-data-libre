@@ -19,90 +19,6 @@
      id="defs4">
     <filter
        inkscape:collect="always"
-       id="filter5759"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.16"
-         id="feGaussianBlur5761" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5763"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.08"
-         id="feGaussianBlur5765" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5767"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.08"
-         id="feGaussianBlur5769" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5771"
-       x="-0.768"
-       width="2.536"
-       y="-0.768"
-       height="2.536">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="4.8"
-         id="feGaussianBlur5773" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5810"
-       x="-0.14468997"
-       width="1.2893799"
-       y="-0.14331658"
-       height="1.2866332">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.2533203"
-         id="feGaussianBlur5812" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5816"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.08"
-         id="feGaussianBlur5818" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5822"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.08"
-         id="feGaussianBlur5824" />
-    </filter>
-    <filter
-       inkscape:collect="always"
        id="filter5828"
        x="-0.192"
        width="1.384"
@@ -124,18 +40,6 @@
          inkscape:collect="always"
          stdDeviation="0.08"
          id="feGaussianBlur5836" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter5840"
-       x="-0.192"
-       width="1.384"
-       y="-0.192"
-       height="1.384">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.08"
-         id="feGaussianBlur5842" />
     </filter>
     <filter
        inkscape:collect="always"
@@ -206,7 +110,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.625"
-     inkscape:cx="16"
+     inkscape:cx="5.5027624"
      inkscape:cy="12.278876"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -229,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -247,7 +151,7 @@
        y="0"
        transform="translate(0,1020.3622)" />
     <path
-       style="fill:#eeeeec;fill-opacity:1;stroke:none;opacity:0.05;filter:url(#filter5862)"
+       style="fill:#eeeeec;fill-opacity:1;stroke:none;opacity:0.025;filter:url(#filter5862)"
        d="m 15,22 5,5 5,0 5,-5 0,-5 -5,-5 -5,0 -5,5 z"
        id="path5852"
        inkscape:connector-curvature="0"
@@ -260,7 +164,7 @@
        sodipodi:cy="15.5"
        sodipodi:rx="0.5"
        sodipodi:ry="0.5"
-       d="m 6,15.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
+       d="M 6,15.5 C 6,15.776142 5.7761424,16 5.5,16 5.2238576,16 5,15.776142 5,15.5 5,15.223858 5.2238576,15 5.5,15 5.7761424,15 6,15.223858 6,15.5 z"
        transform="translate(0,1020.3622)" />
     <path
        sodipodi:type="arc"
@@ -270,7 +174,7 @@
        sodipodi:cy="16.5"
        sodipodi:rx="0.5"
        sodipodi:ry="0.5"
-       d="m 20,16.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
+       d="M 20,16.5 C 20,16.776142 19.776142,17 19.5,17 19.223858,17 19,16.776142 19,16.5 19,16.223858 19.223858,16 19.5,16 c 0.276142,0 0.5,0.223858 0.5,0.5 z"
        transform="translate(0,1020.3622)" />
     <path
        sodipodi:type="arc"
@@ -280,7 +184,7 @@
        sodipodi:cy="22"
        sodipodi:rx="1"
        sodipodi:ry="1"
-       d="m 20,22 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+       d="m 20,22 c 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
        transform="translate(0,1020.3622)" />
     <path
        sodipodi:type="arc"
@@ -290,7 +194,7 @@
        sodipodi:cy="11"
        sodipodi:rx="1"
        sodipodi:ry="1"
-       d="m 11,11 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+       d="m 11,11 c 0,0.552285 -0.447715,1 -1,1 -0.5522847,0 -1,-0.447715 -1,-1 0,-0.552285 0.4477153,-1 1,-1 0.552285,0 1,0.447715 1,1 z"
        transform="matrix(0.75,0,0,0.75,2.5,1023.1122)" />
     <path
        sodipodi:type="arc"
@@ -300,7 +204,7 @@
        sodipodi:cy="6.5"
        sodipodi:rx="0.5"
        sodipodi:ry="0.5"
-       d="m 25,6.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
+       d="M 25,6.5 C 25,6.7761424 24.776142,7 24.5,7 24.223858,7 24,6.7761424 24,6.5 24,6.2238576 24.223858,6 24.5,6 24.776142,6 25,6.2238576 25,6.5 z"
        transform="translate(0,1020.3622)" />
     <path
        sodipodi:type="arc"
@@ -310,7 +214,7 @@
        sodipodi:cy="26.5"
        sodipodi:rx="0.5"
        sodipodi:ry="0.5"
-       d="m 10,26.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
+       d="M 10,26.5 C 10,26.776142 9.7761424,27 9.5,27 9.2238576,27 9,26.776142 9,26.5 9,26.223858 9.2238576,26 9.5,26 9.7761424,26 10,26.223858 10,26.5 z"
        transform="translate(0,1020.3622)" />
   </g>
 </svg>
